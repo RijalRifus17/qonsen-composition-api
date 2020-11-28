@@ -1,1 +1,1 @@
-# qonsen-composition-api
+Masih ada bug dibagian tailwind css, terlalu berat
