@@ -107,7 +107,6 @@ export default {
 
     watch: {
         addInChart() {
-            console.log('a');
             this.addToChart()
         },
     }
